@@ -1,6 +1,6 @@
 # SGHSS - Sistema de Gestão Hospitalar e de Serviços de Saúde
 
-Projeto Back-end desenvolvido como parte da disciplina de Projeto Multidisciplinar (Análise e Desenvolvimento de Sistemas).
+Projeto Back-end que desenvolvi como parte de projeto multidisciplinar.
 O objetivo é fornecer uma API REST segura para gestão de pacientes, profissionais e agendamento de consultas.
 
 ## Tecnologias Utilizadas
